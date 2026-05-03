@@ -8,7 +8,7 @@ Latest release:  v2.08 (Jan. 24, 2026)
 
 [![Version](https://img.shields.io/badge/version-2.08-blue.svg)](https://github.com/AlDanial/cloc)
 [![Contributors](https://img.shields.io/github/contributors/AlDanial/cloc.svg)](https://github.com/AlDanial/cloc/graphs/contributors)
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.42029482.svg)](https://doi.org/10.5281/zenodo.42029482)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.5760076.svg)](https://doi.org/10.5281/zenodo.5760076)
 [![Forks](https://img.shields.io/github/forks/AlDanial/cloc.svg)](https://github.com/AlDanial/cloc/network/members)
 [![Downloads](https://img.shields.io/github/downloads/AlDanial/cloc/total.svg)]()
 
